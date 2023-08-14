@@ -1,2 +1,3 @@
-# julia-rubik-solver
-rubik cube solver in julia
+# rubikSolver
+
+[![Build Status](https://github.com/nkowne63rt/rubikSolver.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/nkowne63rt/rubikSolver.jl/actions/workflows/CI.yml?query=branch%3Amain)
