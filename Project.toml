@@ -4,13 +4,14 @@ authors = ["nkowne63rt <neutron63zf@gmail.com> and contributors"]
 version = "1.0.0-DEV"
 
 [deps]
+Match = "7eb4fadd-790c-5f42-8a69-bfa0b872bfbf"
 
 [compat]
 julia = "1.9"
 
 [extras]
-Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
 test = ["Test", "Revise"]
